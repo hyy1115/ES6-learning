@@ -1,4 +1,4 @@
-# -ES6-learning
+# ES6-learning
 《深入理解ES6》教程学习笔记
 
 使用ES6开发已经有1年多了，以前看的是阮一峰老师的ES6教程，也看过MDN文档的ES6语法介绍。
@@ -40,3 +40,12 @@
 **我会在每一章的笔记中分析概念在实际开发中的应用，比如结合组件化开发的场景来使用这些新特性。**
 
 文章持续更新中...勿着急
+
+[1]: https://github.com/hyy1115/ES6-learning/blob/master/doc/1%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E5%9D%97%E7%BA%A7%E4%BD%9C%E7%94%A8%E5%9F%9F%E7%BB%91%E5%AE%9A.md
+[2]: https://github.com/hyy1115/ES6-learning/blob/master/doc/2%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md
+[3]: https://github.com/hyy1115/ES6-learning/blob/master/doc/3%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E5%87%BD%E6%95%B0.md
+[4]: https://github.com/hyy1115/ES6-learning/blob/master/doc/4%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E6%89%A9%E5%B1%95%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%8A%9F%E8%83%BD%E6%80%A7.md
+[5]: https://github.com/hyy1115/ES6-learning/blob/master/doc/5%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E8%A7%A3%E6%9E%84%EF%BC%9A%E4%BD%BF%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E6%9B%B4%E4%BE%BF%E6%8D%B7.md
+[6]: https://github.com/hyy1115/ES6-learning/blob/master/doc/6%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Symbol%E5%92%8CSymbol%E5%B1%9E%E6%80%A7.md
+[7]: https://github.com/hyy1115/ES6-learning/blob/master/doc/7%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Set%E9%9B%86%E5%90%88%E4%B8%8EMap%E9%9B%86%E5%90%88.md
+[8]: https://github.com/hyy1115/ES6-learning/blob/master/doc/8%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E8%BF%AD%E4%BB%A3%E5%99%A8%EF%BC%88Iterator%EF%BC%89%E5%92%8C%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%88Generator%EF%BC%89.md
