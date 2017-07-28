@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eccddf1c-4160-41f0-8028-864dea1298fe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="eccddf1c-4160-41f0-8028-864dea1298fe" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,200 +15,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="366">
-                <caret line="50" column="283" lean-forward="false" selection-start-line="50" selection-start-column="283" selection-end-line="50" selection-end-column="283" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2、《深入理解ES6》笔记——字符串和正则表达式.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/2、《深入理解ES6》笔记——字符串和正则表达式.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-91">
-                <caret line="148" column="4" lean-forward="false" selection-start-line="148" selection-start-column="4" selection-end-line="148" selection-end-column="4" />
-                <folding>
-                  <marker date="1501038330000" expanded="true" signature="952:980" ph="{...}" />
-                  <marker date="1501038330000" expanded="true" signature="1187:1215" ph="{...}" />
-                  <marker date="1501038330000" expanded="true" signature="1359:1387" ph="{...}" />
-                  <marker date="1501038330000" expanded="true" signature="1528:1556" ph="{...}" />
-                  <marker date="1501038330000" expanded="true" signature="2240:2257" ph="//..." />
-                  <marker date="1501038330000" expanded="true" signature="2354:2371" ph="//..." />
-                  <marker date="1501038330000" expanded="true" signature="2726:2859" ph="{...}" />
-                  <marker date="1501038330000" expanded="true" signature="2736:2824" ph="//..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3、《深入理解ES6》笔记——函数.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/3、《深入理解ES6》笔记——函数.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="5">
-                <caret line="319" column="4" lean-forward="false" selection-start-line="319" selection-start-column="4" selection-end-line="319" selection-end-column="4" />
-                <folding>
-                  <marker date="1501038577000" expanded="true" signature="266:394" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="475:528" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="655:688" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="752:804" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="978:1076" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="1180:1216" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="1442:1567" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="1689:1810" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="1953:1976" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="2004:2034" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="2245:2277" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="2442:2488" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="2503:2533" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="2639:2671" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="2815:2847" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="2923:2969" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="2947:2963" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="3457:3507" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="3485:3501" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="4167:4202" ph="{&quot;type&quot;: &quot;TYPE&quot;...}" />
-                  <marker date="1501038577000" expanded="true" signature="4270:4354" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="4285:4348" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="4303:4340" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="4800:4825" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="4916:4934" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="4993:5022" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="5087:5130" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="5183:5273" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="5224:5252" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="5435:5535" ph="{...}" />
-                  <marker date="1501038577000" expanded="true" signature="5454:5484" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4、《深入理解ES6》笔记——扩展对象的功能性.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/4、《深入理解ES6》笔记——扩展对象的功能性.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="53">
-                <caret line="243" column="4" lean-forward="false" selection-start-line="243" selection-start-column="4" selection-end-line="243" selection-end-column="4" />
-                <folding>
-                  <marker date="1501038761000" expanded="true" signature="185:203" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="289:335" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="304:328" ph="{&quot;id&quot;: id...}" />
-                  <marker date="1501038761000" expanded="true" signature="375:391" ph="{&quot;id&quot;: id...}" />
-                  <marker date="1501038761000" expanded="true" signature="449:534" ph="{&quot;id&quot;: 1...}" />
-                  <marker date="1501038761000" expanded="true" signature="490:528" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="567:642" ph="{&quot;id&quot;: 1...}" />
-                  <marker date="1501038761000" expanded="true" signature="598:636" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="734:764" ph="{&quot;null&quot;: id...}" />
-                  <marker date="1501038761000" expanded="true" signature="1674:1797" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="1721:1768" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="1841:1884" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="1852:1876" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="2288:2290" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="2335:2442" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="2812:2844" ph="{&quot;id&quot;: 1...}" />
-                  <marker date="1501038761000" expanded="true" signature="2965:3029" ph="{&quot;id&quot;: 1...}" />
-                  <marker date="1501038761000" expanded="true" signature="3435:3437" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="3586:3639" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="3601:3633" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="3752:3802" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="3767:3796" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="3980:4044" ph="{...}" />
-                  <marker date="1501038761000" expanded="true" signature="4006:4038" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5、《深入理解ES6》笔记——解构：使数据访问更便捷.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/5、《深入理解ES6》笔记——解构：使数据访问更便捷.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="341">
-                <caret line="177" column="4" lean-forward="false" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
-                <folding>
-                  <marker date="1501038909000" expanded="true" signature="206:241" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="517:547" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="573:605" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="794:824" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="1027:1133" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="1044:1127" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="1364:1428" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="1375:1422" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="1388:1414" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="2593:2650" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="2604:2627" ph="{&quot;id&quot;: 1...}" />
-                  <marker date="1501038909000" expanded="true" signature="2890:2986" ph="{...}" />
-                  <marker date="1501038909000" expanded="true" signature="3010:3057" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6、《深入理解ES6》笔记——Symbol和Symbol属性.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/6、《深入理解ES6》笔记——Symbol和Symbol属性.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-85">
-                <caret line="175" column="4" lean-forward="false" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
-                <folding>
-                  <marker date="1501039113000" expanded="true" signature="43:61" ph="{...}" />
-                  <marker date="1501039113000" expanded="true" signature="99:125" ph="{...}" />
-                  <marker date="1501039113000" expanded="true" signature="1079:1122" ph="//..." />
-                  <marker date="1501039113000" expanded="true" signature="1204:1218" ph="//..." />
-                  <marker date="1501039113000" expanded="true" signature="1431:1459" ph="{&quot;null&quot;: &quot;haha&quot;...}" />
-                  <marker date="1501039113000" expanded="true" signature="1839:1911" ph="{&quot;get&quot;: warnAboutAccessingKey...}" />
-                  <marker date="1501039113000" expanded="true" signature="3107:3146" ph="{&quot;null&quot;: &quot;123&quot;...}" />
-                  <marker date="1501039113000" expanded="true" signature="3248:3286" ph="{...}" />
-                  <marker date="1501039113000" expanded="true" signature="3291:3307" ph="//..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7、《深入理解ES6》笔记——Set集合与Map集合.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/7、《深入理解ES6》笔记——Set集合与Map集合.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-162">
-                <caret line="253" column="4" lean-forward="false" selection-start-line="253" selection-start-column="4" selection-end-line="253" selection-end-column="4" />
-                <folding>
-                  <marker date="1501039339000" expanded="true" signature="1616:1651" ph="{...}" />
-                  <marker date="1501039339000" expanded="true" signature="1747:1780" ph="{...}" />
-                  <marker date="1501039339000" expanded="true" signature="1785:1812" ph="//..." />
-                  <marker date="1501039339000" expanded="true" signature="1887:1925" ph="{...}" />
-                  <marker date="1501039339000" expanded="true" signature="1931:1978" ph="//..." />
-                  <marker date="1501039339000" expanded="true" signature="2091:2129" ph="{...}" />
-                  <marker date="1501039339000" expanded="true" signature="2136:2183" ph="//..." />
-                  <marker date="1501039339000" expanded="true" signature="2222:2271" ph="{...}" />
-                  <marker date="1501039339000" expanded="true" signature="2525:2562" ph="//..." />
-                  <marker date="1501039339000" expanded="true" signature="4841:4878" ph="{...}" />
-                  <marker date="1501039339000" expanded="true" signature="4889:4943" ph="//..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8、《深入理解ES6》笔记——迭代器（Iterator）和生成器（Generator）.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="8、《深入理解ES6》笔记——迭代器（Iterator）和生成器（Generator）.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doc/8、《深入理解ES6》笔记——迭代器（Iterator）和生成器（Generator）.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -277,6 +82,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -330,6 +140,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ES6-learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ES6-learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ES6-learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -451,16 +275,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501037842867</updated>
-      <workItem from="1501037845932" duration="2076000" />
+      <workItem from="1501037845932" duration="2283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2076000" />
+    <option name="totallyTimeSpent" value="2283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12798092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -469,7 +292,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -503,11 +326,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="366">
+            <caret line="50" column="283" lean-forward="false" selection-start-line="50" selection-start-column="283" selection-end-line="50" selection-end-column="283" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/1、《深入理解ES6》笔记——块级作用域绑定.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="146" column="12" lean-forward="false" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
+            <folding>
+              <marker date="1501038137000" expanded="true" signature="240:358" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="295:318" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="459:611" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="538:557" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="712:839" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="735:803" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="758:793" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="1101:1207" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="1120:1201" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="1261:1340" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="1280:1311" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="1435:1516" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="1454:1510" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="1929:1947" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="2265:2305" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="2452:2535" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="2477:2525" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="2626:2706" ph="{...}" />
+              <marker date="1501038137000" expanded="true" signature="2651:2696" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/2、《深入理解ES6》笔记——字符串和正则表达式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="194">
+            <caret line="161" column="15" lean-forward="false" selection-start-line="161" selection-start-column="15" selection-end-line="161" selection-end-column="15" />
+            <folding>
+              <marker date="1501038330000" expanded="true" signature="952:980" ph="{...}" />
+              <marker date="1501038330000" expanded="true" signature="1187:1215" ph="{...}" />
+              <marker date="1501038330000" expanded="true" signature="1359:1387" ph="{...}" />
+              <marker date="1501038330000" expanded="true" signature="1528:1556" ph="{...}" />
+              <marker date="1501038330000" expanded="true" signature="2240:2257" ph="//..." />
+              <marker date="1501038330000" expanded="true" signature="2354:2371" ph="//..." />
+              <marker date="1501038330000" expanded="true" signature="2726:2859" ph="{...}" />
+              <marker date="1501038330000" expanded="true" signature="2736:2824" ph="//..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doc/3、《深入理解ES6》笔记——函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="5">
-            <caret line="319" column="4" lean-forward="false" selection-start-line="319" selection-start-column="4" selection-end-line="319" selection-end-column="4" />
+          <first_editor relative-caret-position="48">
+            <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             <folding>
               <marker date="1501038577000" expanded="true" signature="266:394" ph="{...}" />
               <marker date="1501038577000" expanded="true" signature="475:528" ph="{...}" />
@@ -549,8 +434,8 @@
     <entry file="file://$PROJECT_DIR$/doc/4、《深入理解ES6》笔记——扩展对象的功能性.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="53">
-            <caret line="243" column="4" lean-forward="false" selection-start-line="243" selection-start-column="4" selection-end-line="243" selection-end-column="4" />
+          <first_editor relative-caret-position="136">
+            <caret line="250" column="10" lean-forward="false" selection-start-line="250" selection-start-column="10" selection-end-line="250" selection-end-column="10" />
             <folding>
               <marker date="1501038761000" expanded="true" signature="185:203" ph="{...}" />
               <marker date="1501038761000" expanded="true" signature="289:335" ph="{...}" />
@@ -585,8 +470,8 @@
     <entry file="file://$PROJECT_DIR$/doc/5、《深入理解ES6》笔记——解构：使数据访问更便捷.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="341">
-            <caret line="177" column="4" lean-forward="false" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
+          <first_editor relative-caret-position="136">
+            <caret line="178" column="16" lean-forward="false" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
             <folding>
               <marker date="1501038909000" expanded="true" signature="206:241" ph="{...}" />
               <marker date="1501038909000" expanded="true" signature="517:547" ph="{...}" />
@@ -610,8 +495,8 @@
     <entry file="file://$PROJECT_DIR$/doc/6、《深入理解ES6》笔记——Symbol和Symbol属性.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-85">
-            <caret line="175" column="4" lean-forward="false" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
+          <first_editor relative-caret-position="136">
+            <caret line="48" column="62" lean-forward="false" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
             <folding>
               <marker date="1501039113000" expanded="true" signature="43:61" ph="{...}" />
               <marker date="1501039113000" expanded="true" signature="99:125" ph="{...}" />
@@ -622,6 +507,29 @@
               <marker date="1501039113000" expanded="true" signature="3107:3146" ph="{&quot;null&quot;: &quot;123&quot;...}" />
               <marker date="1501039113000" expanded="true" signature="3248:3286" ph="{...}" />
               <marker date="1501039113000" expanded="true" signature="3291:3307" ph="//..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/7、《深入理解ES6》笔记——Set集合与Map集合.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="39" column="45" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="45" />
+            <folding>
+              <marker date="1501039339000" expanded="true" signature="1616:1651" ph="{...}" />
+              <marker date="1501039339000" expanded="true" signature="1747:1780" ph="{...}" />
+              <marker date="1501039339000" expanded="true" signature="1785:1812" ph="//..." />
+              <marker date="1501039339000" expanded="true" signature="1887:1925" ph="{...}" />
+              <marker date="1501039339000" expanded="true" signature="1931:1978" ph="//..." />
+              <marker date="1501039339000" expanded="true" signature="2091:2129" ph="{...}" />
+              <marker date="1501039339000" expanded="true" signature="2136:2183" ph="//..." />
+              <marker date="1501039339000" expanded="true" signature="2222:2271" ph="{...}" />
+              <marker date="1501039339000" expanded="true" signature="2525:2562" ph="//..." />
+              <marker date="1501039339000" expanded="true" signature="4841:4878" ph="{...}" />
+              <marker date="1501039339000" expanded="true" signature="4889:4943" ph="//..." />
             </folding>
           </first_editor>
           <second_editor />
@@ -686,60 +594,6 @@
               <marker date="1501039574000" expanded="true" signature="8211:8343" ph="{...}" />
               <marker date="1501039574000" expanded="true" signature="8490:8587" ph="{...}" />
             </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/7、《深入理解ES6》笔记——Set集合与Map集合.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-162">
-            <caret line="253" column="4" lean-forward="false" selection-start-line="253" selection-start-column="4" selection-end-line="253" selection-end-column="4" />
-            <folding>
-              <marker date="1501039339000" expanded="true" signature="1616:1651" ph="{...}" />
-              <marker date="1501039339000" expanded="true" signature="1747:1780" ph="{...}" />
-              <marker date="1501039339000" expanded="true" signature="1785:1812" ph="//..." />
-              <marker date="1501039339000" expanded="true" signature="1887:1925" ph="{...}" />
-              <marker date="1501039339000" expanded="true" signature="1931:1978" ph="//..." />
-              <marker date="1501039339000" expanded="true" signature="2091:2129" ph="{...}" />
-              <marker date="1501039339000" expanded="true" signature="2136:2183" ph="//..." />
-              <marker date="1501039339000" expanded="true" signature="2222:2271" ph="{...}" />
-              <marker date="1501039339000" expanded="true" signature="2525:2562" ph="//..." />
-              <marker date="1501039339000" expanded="true" signature="4841:4878" ph="{...}" />
-              <marker date="1501039339000" expanded="true" signature="4889:4943" ph="//..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/2、《深入理解ES6》笔记——字符串和正则表达式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-91">
-            <caret line="148" column="4" lean-forward="false" selection-start-line="148" selection-start-column="4" selection-end-line="148" selection-end-column="4" />
-            <folding>
-              <marker date="1501038330000" expanded="true" signature="952:980" ph="{...}" />
-              <marker date="1501038330000" expanded="true" signature="1187:1215" ph="{...}" />
-              <marker date="1501038330000" expanded="true" signature="1359:1387" ph="{...}" />
-              <marker date="1501038330000" expanded="true" signature="1528:1556" ph="{...}" />
-              <marker date="1501038330000" expanded="true" signature="2240:2257" ph="//..." />
-              <marker date="1501038330000" expanded="true" signature="2354:2371" ph="//..." />
-              <marker date="1501038330000" expanded="true" signature="2726:2859" ph="{...}" />
-              <marker date="1501038330000" expanded="true" signature="2736:2824" ph="//..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="366">
-            <caret line="50" column="283" lean-forward="false" selection-start-line="50" selection-start-column="283" selection-end-line="50" selection-end-column="283" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
