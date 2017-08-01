@@ -17,3 +17,8 @@ q
 Adoc/7、《深入理解ES6》笔记——Set集合与Map集合.md,0/7/07ae9d86ed6bb7fdfe54d102a3ba3c6d575e10ef
 �
 ^doc/8、《深入理解ES6》笔记——迭代器（Iterator）和生成器（Generator）.md,6/0/60e072cb4d449d0f54cf1bab08deddddae79ea48
+u
+Edoc/9、《深入理解ES6》笔记—— JavaScript中的类class.md,9/c/9cfdc0f39a07d2b172020c3f6bb9acf4d75de3d9
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
