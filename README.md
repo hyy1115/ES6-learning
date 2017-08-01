@@ -23,7 +23,7 @@
 
 [第八章 迭代器（Iterator）和生成器（Generator）][8]
 
-第九章 JavaScript中的类
+[第九章 JavaScript中的类][9]
 
 第十章 改进数组的功能
 
@@ -49,3 +49,4 @@
 [6]: https://github.com/hyy1115/ES6-learning/blob/master/doc/6%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Symbol%E5%92%8CSymbol%E5%B1%9E%E6%80%A7.md
 [7]: https://github.com/hyy1115/ES6-learning/blob/master/doc/7%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Set%E9%9B%86%E5%90%88%E4%B8%8EMap%E9%9B%86%E5%90%88.md
 [8]: https://github.com/hyy1115/ES6-learning/blob/master/doc/8%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E8%BF%AD%E4%BB%A3%E5%99%A8%EF%BC%88Iterator%EF%BC%89%E5%92%8C%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%88Generator%EF%BC%89.md
+[9]: https://github.com/hyy1115/ES6-learning/blob/master/doc/9%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%20JavaScript%E4%B8%AD%E7%9A%84%E7%B1%BBclass.md
