@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eccddf1c-4160-41f0-8028-864dea1298fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/10、《深入理解ES6》笔记—— 改进数组的功能.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/11、《深入理解ES6》笔记—— Promise与异步编程.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -151,16 +149,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10、《深入理解ES6》笔记—— 改进数组的功能.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="10、《深入理解ES6》笔记—— 改进数组的功能.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doc/10、《深入理解ES6》笔记—— 改进数组的功能.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="29">
-                <caret line="113" column="4" lean-forward="false" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="4" />
+              <first_editor relative-caret-position="149">
+                <caret line="118" column="4" lean-forward="true" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
                 <folding>
                   <marker date="1501591809000" expanded="true" signature="865:933" ph="{...}" />
                   <marker date="1501591809000" expanded="true" signature="1077:1165" ph="{...}" />
                   <marker date="1501591809000" expanded="true" signature="1302:1356" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11、《深入理解ES6》笔记—— Promise与异步编程.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/11、《深入理解ES6》笔记—— Promise与异步编程.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="341">
+                <caret line="270" column="27" lean-forward="true" selection-start-line="270" selection-start-column="27" selection-end-line="270" selection-end-column="27" />
+                <folding>
+                  <marker date="1501592109000" expanded="true" signature="610:642" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="785:816" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="1818:1863" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="2288:2356" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="2288:2362" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="2307:2356" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="2309:2356" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="3241:3350" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="3571:3626" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="3959:3999" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="4327:4434" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="4339:4367" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="4382:4428" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="4844:5075" ph="[...]" />
+                  <marker date="1501592109000" expanded="true" signature="4890:4918" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="4965:4993" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="5040:5068" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="5089:5132" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="5333:5633" ph="[...]" />
+                  <marker date="1501592109000" expanded="true" signature="5379:5431" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="5478:5529" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="5576:5626" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="5649:5686" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="5798:5997" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="5855:5906" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="5948:5991" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="6082:6107" ph="{...}" />
+                  <marker date="1501592109000" expanded="true" signature="6442:6477" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -193,6 +233,7 @@
         <option value="$PROJECT_DIR$/doc/9、《深入理解ES6》笔记—— JavaScript中的类class.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/doc/10、《深入理解ES6》笔记—— 改进数组的功能.md" />
+        <option value="$PROJECT_DIR$/doc/11、《深入理解ES6》笔记—— Promise与异步编程.md" />
       </list>
     </option>
   </component>
@@ -374,12 +415,12 @@
       <updated>1501037842867</updated>
       <workItem from="1501037845932" duration="2283000" />
       <workItem from="1501259596870" duration="491000" />
-      <workItem from="1501591431827" duration="374000" />
+      <workItem from="1501591431827" duration="673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3148000" />
+    <option name="totallyTimeSpent" value="3447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -963,12 +1004,52 @@
     <entry file="file://$PROJECT_DIR$/doc/10、《深入理解ES6》笔记—— 改进数组的功能.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="29">
-            <caret line="113" column="4" lean-forward="false" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="4" />
+          <first_editor relative-caret-position="149">
+            <caret line="118" column="4" lean-forward="true" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
             <folding>
               <marker date="1501591809000" expanded="true" signature="865:933" ph="{...}" />
               <marker date="1501591809000" expanded="true" signature="1077:1165" ph="{...}" />
               <marker date="1501591809000" expanded="true" signature="1302:1356" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/11、《深入理解ES6》笔记—— Promise与异步编程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="341">
+            <caret line="270" column="27" lean-forward="true" selection-start-line="270" selection-start-column="27" selection-end-line="270" selection-end-column="27" />
+            <folding>
+              <marker date="1501592109000" expanded="true" signature="610:642" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="785:816" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="1818:1863" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="2288:2356" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="2288:2362" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="2307:2356" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="2309:2356" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="3241:3350" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="3571:3626" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="3959:3999" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="4327:4434" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="4339:4367" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="4382:4428" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="4844:5075" ph="[...]" />
+              <marker date="1501592109000" expanded="true" signature="4890:4918" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="4965:4993" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="5040:5068" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="5089:5132" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="5333:5633" ph="[...]" />
+              <marker date="1501592109000" expanded="true" signature="5379:5431" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="5478:5529" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="5576:5626" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="5649:5686" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="5798:5997" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="5855:5906" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="5948:5991" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="6082:6107" ph="{...}" />
+              <marker date="1501592109000" expanded="true" signature="6442:6477" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
