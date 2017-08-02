@@ -2,7 +2,7 @@
 
 当你见到一个新的API，不明白的时候，就在浏览器打印出来看看它的样子。
 
-![clipboard.png](/img/bVR5HF)
+![clipboard.png](https://segmentfault.com/img/bVR5HF?w=1722&h=560)
 
 #### 反射的概念
 
@@ -72,7 +72,7 @@ demo2:使用Reflect.apply给目标函数floor传入指定的参数。
 
 Proxy这个词相信你已经听过无数遍了，我曾经写过一篇webpack使用代理来拦截指定域的API请求，转发到新的目标URL的文章 [webpack中使用proxy][2]。但是注意Proxy和proxy，大小写字母之间是不同的。本章讲的是大写字母开头的Proxy。
 
-![clipboard.png](/img/bVR5W5)
+![clipboard.png](https://segmentfault.com/img/bVR5W5?w=710&h=182)
 
 #### 语法
 ```javascript
