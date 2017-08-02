@@ -29,17 +29,13 @@
 
 [第十一章 Promise与异步编程][11]
 
-第十二章 代理（Proxy）和反射（Reflection）API
+[第十二章 代理（Proxy）和反射（Reflection）API][12]
 
-第十三章 用模块封装代码
+[第十三章 用模块封装代码][13]
 
-第十四章 ES6中较小的改动
 
-第十五章 了解ES7（2016）
+**全剧终**
 
-**我会在每一章的笔记中分析概念在实际开发中的应用，比如结合组件化开发的场景来使用这些新特性。**
-
-文章持续更新中...勿着急
 
 [1]: https://github.com/hyy1115/ES6-learning/blob/master/doc/1%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E5%9D%97%E7%BA%A7%E4%BD%9C%E7%94%A8%E5%9F%9F%E7%BB%91%E5%AE%9A.md
 [2]: https://github.com/hyy1115/ES6-learning/blob/master/doc/2%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md
@@ -52,3 +48,7 @@
 [9]: https://github.com/hyy1115/ES6-learning/blob/master/doc/9%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%20JavaScript%E4%B8%AD%E7%9A%84%E7%B1%BBclass.md
 [10]: https://github.com/hyy1115/ES6-learning/blob/master/doc/10%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%20%E6%94%B9%E8%BF%9B%E6%95%B0%E7%BB%84%E7%9A%84%E5%8A%9F%E8%83%BD.md
 [11]: https://github.com/hyy1115/ES6-learning/blob/master/doc/11%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%20Promise%E4%B8%8E%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.md
+[12]:
+https://github.com/hyy1115/ES6-learning/blob/master/doc/12%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E4%BB%A3%E7%90%86%EF%BC%88Proxy%EF%BC%89%E5%92%8C%E5%8F%8D%E5%B0%84%EF%BC%88Reflection%EF%BC%89API.md
+[13]:
+https://github.com/hyy1115/ES6-learning/blob/master/doc/13%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%94%A8%E6%A8%A1%E5%9D%97%E5%B0%81%E8%A3%85%E4%BB%A3%E7%A0%81.md
