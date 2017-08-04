@@ -1,9 +1,11 @@
 # ES6-learning
 《深入理解ES6》教程学习笔记
 
+**发现问题欢迎pull commit**
+
 使用ES6开发已经有1年多了，以前看的是阮一峰老师的ES6教程，也看过MDN文档的ES6语法介绍。
 
-最近买了《深入理解ES6》的书籍来看，为什么学习ES6这么久还要买这本书呢？主要是看到Daniel Abramove（react核心团队成员及redux的创造者）为本书做了序，作为一个react粉丝，还是挺看好这本书能给我带来一个新的升华，而且本书的作者也非常厉害。
+最近买了《深入理解ES6》的书籍来看，为什么学习ES6这么久还要买这本书呢？主要是看到Daniel Abramove（react核心团队成员及redux的创造者）为本书做了序，作为一个react粉丝，还是挺看好这本书能给我带来一个新的升华，而且本书的作者也非常厉害。感谢 [@lenville][14] 的翻译贡献。
 
 **本章作为导读，用来汇总所有章节，每一章的内容也是我的学习笔记，也会加上自己对ES6新功能的理解分析，希望对前端爱好者也有帮助。**
 
@@ -52,3 +54,4 @@
 https://github.com/hyy1115/ES6-learning/blob/master/doc/12%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E4%BB%A3%E7%90%86%EF%BC%88Proxy%EF%BC%89%E5%92%8C%E5%8F%8D%E5%B0%84%EF%BC%88Reflection%EF%BC%89API.md
 [13]:
 https://github.com/hyy1115/ES6-learning/blob/master/doc/13%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%94%A8%E6%A8%A1%E5%9D%97%E5%B0%81%E8%A3%85%E4%BB%A3%E7%A0%81.md
+[14]: https://github.com/lenville
