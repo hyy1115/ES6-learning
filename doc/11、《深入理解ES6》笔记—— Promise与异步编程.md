@@ -118,7 +118,7 @@ unhandledRjection:在一个事件循环中，当Promise执行reject()，并且�
 正常情况下，你可以使用catch捕捉reject。
  ```javascript
     Promise.reject("It was my wrong!").catch(v => console.log(v))
-```
+ ```
 
 但是，有时候你不总是记得使用catch。你就需要使用process.on()
 
@@ -250,13 +250,13 @@ rejectionHandled:在一个事件循环后，当Promise执行reject，并且没�
 ```
 
 接着我们来使用一下这个派生类。
-    
+​    
 ```javascript
     new MyPromise(function(resolve, reject) {
       resolve(10)
     }).success(v => console.log(v)) // 10
 ```
-    
+
 如果只是派生出来和then、catch一样的方法，我想，你不会干这么无聊的事情。
 
 #### Promise和异步的联系
@@ -279,5 +279,9 @@ Promise是什么、怎么用、怎么获取返回值？是本章的中心内容�
 [=> 返回文章目录][2]
 
 
-  [1]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise
-  [2]: https://segmentfault.com/a/1190000010199272
+[1]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise
+[2]: https://segmentfault.com/a/1190000010199272
+
+上一节：[10.改进数组的功能](https://github.com/hyy1115/ES6-learning/blob/master/doc/10%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%20%E6%94%B9%E8%BF%9B%E6%95%B0%E7%BB%84%E7%9A%84%E5%8A%9F%E8%83%BD.md)
+
+下一节：[12.代理（Proxy）和反射（Reflection）API](https://github.com/hyy1115/ES6-learning/blob/master/doc/12%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E4%BB%A3%E7%90%86%EF%BC%88Proxy%EF%BC%89%E5%92%8C%E5%8F%8D%E5%B0%84%EF%BC%88Reflection%EF%BC%89API.md)

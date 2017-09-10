@@ -79,7 +79,7 @@ ES6实现类非常简单，只需要类声明。推荐 [babel在线测试ES6][1]
       constructor() {}
     }
 ```
-    
+
 #### 类是一等公民
 
 JavaScript函数是一等公民，类也设计成一等公民。
@@ -138,7 +138,7 @@ JavaScript函数是一等公民，类也设计成一等公民。
     console.log("get" in desriptor) // true
     console.log(desriptor.enumerable) // false 不可枚举
 ```
-    
+
 #### 可计算成员名称
 
 可计算成员是指使用方括号包裹一个表达式，如下面定义了一个变量m，然后使用[m]设置为类A的原型方法。
@@ -210,7 +210,7 @@ JavaScript函数是一等公民，类也设计成一等公民。
     let t = new A()
     console.log(t.create("eryue")) // t.create is not a function
 ```
-    
+
 #### 继承与派生类
 
 我们在写react的时候，自定义的组件会继承React.Component。
@@ -357,5 +357,9 @@ new.target通常表示当前的构造函数名。通常我们使用new.target来
 [=> 返回文章目录][2]
 
 
-  [1]: https://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=true&presets=env,es2015,es2015-loose,es2016,es2017,stage-0,stage-1,stage-2,stage-3&targets=&browsers=%3E%202%25,%20ie%209,&builtIns=false&debug=false&code_lz=MYGwhgzhAECC0G8BQ1rAPYDsIBcBOArsDungBS5g4CmAlIiqtDgBYCWEAdJTdALzQe1RgF9GAc2o5oAWwCeAOTAzqZesibQ8UgnkzN2XIZ0zLhqMaghTZis2VMr1jVKw7ccVaibP9oj82gxMRAbABNqCDw2AAcSPD8AeQAjACtqYk5JHESAd0wABTx0GOo8HDkAEUjgaLjSMlhOGOKSCtKAGmgAInklFW7aJAxsdFDOEHRxMgio2PjOakwCFTwwZNDaIA
-  [2]: https://segmentfault.com/a/1190000010199272
+[1]: https://babeljs.io/repl/#?babili=false&amp;evaluate=true&amp;lineWrap=true&amp;presets=env,es2015,es2015-loose,es2016,es2017,stage-0,stage-1,stage-2,stage-3&amp;targets=&amp;browsers=%3E%202%25,%20ie%209,&amp;builtIns=false&amp;debug=false&amp;code_lz=MYGwhgzhAECC0G8BQ1rAPYDsIBcBOArsDungBS5g4CmAlIiqtDgBYCWEAdJTdALzQe1RgF9GAc2o5oAWwCeAOTAzqZesibQ8UgnkzN2XIZ0zLhqMaghTZis2VMr1jVKw7ccVaibP9oj82gxMRAbABNqCDw2AAcSPD8AeQAjACtqYk5JHESAd0wABTx0GOo8HDkAEUjgaLjSMlhOGOKSCtKAGmgAInklFW7aJAxsdFDOEHRxMgio2PjOakwCFTwwZNDaIA
+[2]: https://segmentfault.com/a/1190000010199272
+
+上一节：[8.迭代器（Iterator）和生成器（Generator）](https://github.com/hyy1115/ES6-learning/blob/master/doc/8%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E8%BF%AD%E4%BB%A3%E5%99%A8%EF%BC%88Iterator%EF%BC%89%E5%92%8C%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%88Generator%EF%BC%89.md)
+
+下一节：[10.改进数组的功能](https://github.com/hyy1115/ES6-learning/blob/master/doc/10%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%20%E6%94%B9%E8%BF%9B%E6%95%B0%E7%BB%84%E7%9A%84%E5%8A%9F%E8%83%BD.md)
