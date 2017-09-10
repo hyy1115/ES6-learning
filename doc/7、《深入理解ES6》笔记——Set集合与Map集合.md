@@ -21,7 +21,7 @@ Map和Set都叫做集合，但是他们也有所不同。Set常被用来检查�
         [[Entries]]:Array(0)
         length:0
 ```
-    
+
 看起来像个对象，那么现在我们在控制台打印一个对象，对比一下两者有什么不同。
 
 ```javascript
@@ -107,7 +107,7 @@ for in迭代的是对象的key，而在Set中的元素没有key，**使用for of
     //Symbol(haha) Symbol(haha)
 ```
 
-    
+
 **forEach操作Set：**Set本身没有key，而forEach方法中的key被设置成了元素本身。
 
 ```javascript
@@ -277,7 +277,11 @@ Weak Map集合只支持对象类型的key，所有key都是弱引用，当该对
 
 
 
-  [1]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Set
-  [2]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/WeakSet
-  [3]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Map
-  [4]: https://segmentfault.com/a/1190000010199272
+[1]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Set
+[2]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/WeakSet
+[3]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Map
+[4]: https://segmentfault.com/a/1190000010199272
+
+上一节：[6.Symbol和Symbol属性](https://github.com/hyy1115/ES6-learning/blob/master/doc/6%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Symbol%E5%92%8CSymbol%E5%B1%9E%E6%80%A7.md)
+
+下一节：[8.迭代器（Iterator）和生成器（Generator）](https://github.com/hyy1115/ES6-learning/blob/master/doc/8%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E8%BF%AD%E4%BB%A3%E5%99%A8%EF%BC%88Iterator%EF%BC%89%E5%92%8C%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%88Generator%EF%BC%89.md)

@@ -33,7 +33,7 @@
     const a = 'haha'
     typeof a // string
 ```
-    
+
 **boolean 布尔型**
 
 ```javascript
@@ -159,7 +159,7 @@ JavaScript中的类型可以自动转换。比如Number转换成字符串。
     console.log(typeof a); // number
     console.log(a + ' haha') // '1haha'
 ```
-    
+
 但是注意了，Symbol不支持这种转换。Symbol就是这么拽啊！
 
 ```javascript
@@ -167,7 +167,7 @@ JavaScript中的类型可以自动转换。比如Number转换成字符串。
     console.log(typeof a);
     console.log(a + ' haha') // Cannot convert a Symbol value to a string
 ```
-    
+
 #### Symbol检索
 
 在对象中获取字符串的key时，可以使用Object.keys()或Object.getOwnPropertyNames()方法获取key，但是使用Symbol做key是，你就只能使用ES6新增的方法来获取了。
@@ -189,7 +189,7 @@ JavaScript中的类型可以自动转换。比如Number转换成字符串。
     //"123"
     //45
 ```
-    
+
 ### 总结
 
 Symbol还提供了多个方法给开发者使用，我们不再一一研究每个方法的用途，你想要了解全面可以查看 [Symbol MDN文档][1]
@@ -200,5 +200,9 @@ Symbol还提供了多个方法给开发者使用，我们不再一一研究每�
 
 
 
-  [1]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Symbol
-  [2]: https://segmentfault.com/a/1190000010199272
+[1]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Symbol
+[2]: https://segmentfault.com/a/1190000010199272
+
+上一节：[5.解构：使数据访问更便捷](https://github.com/hyy1115/ES6-learning/blob/master/doc/5%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E8%A7%A3%E6%9E%84%EF%BC%9A%E4%BD%BF%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E6%9B%B4%E4%BE%BF%E6%8D%B7.md)
+
+下一节：[7.Set集合与Map集合](https://github.com/hyy1115/ES6-learning/blob/master/doc/7%E3%80%81%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6%E3%80%8B%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Set%E9%9B%86%E5%90%88%E4%B8%8EMap%E9%9B%86%E5%90%88.md)
