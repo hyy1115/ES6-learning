@@ -169,9 +169,11 @@ JavaScript函数是一等公民，类也设计成一等公民。
       }
     }
     let a = new A()
-    console.log(a.printId().next()) // {done: false, value: 1}
-    console.log(a.printId().next()) // {done: false, value: 2}
-    console.log(a.printId().next()) // {done: false, value: 3}
+    let x = a.printId()
+    
+    x.next() // {done: false, value: 1}
+    x.next() // {done: false, value: 2}
+    x.next() // {done: false, value: 3}
 ```
 
 这个写法很有趣，我们新增一个原型方法稍微改动一下。
@@ -322,7 +324,7 @@ JavaScript函数是一等公民，类也设计成一等公民。
 有些牛逼的人觉得使用内建的Array不够爽，就希望ECMA提供一种继承内建对象的方法，然后那帮大神们就把这个功能添加到class中了。
 ```javascript
     class MyArray extends Array { }
-    let colors = new Array()
+    let colors = new MyArray()
     colors[0] = "1"
     console.log(colors) // [1]
 ```
